@@ -8,7 +8,7 @@ These organizations are working to increase representation within the tech secto
 * [Black & Brown Founders](https://blackandbrownfounders.com/) [USA]
 * [Black Girls Code](https://www.blackgirlscode.com/) [USA]
 * [Blacks In Technology](https://www.blacksintechnology.net/) [International]
-* [Black Tech Pipeline](https://blacktechpipeline.com/) [Internaitonal]
+* [Black Tech Pipeline](https://blacktechpipeline.com/) [International]
 * [Code2040](http://www.code2040.org/) [USA]
 * [National Society of Black Engineers (NSBE)](https://www.nsbe.org/) [International]
 
